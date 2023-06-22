@@ -1,0 +1,24 @@
+
+ENTIDADES
+- Produto
+- Cliente
+- Pedido
+
+ESPECIFICAÇÕES
+- CRUDs: Produtos, Clientes
+- Criação de Pedidos
+	- Somar total dos produtos
+	- Calcular frente
+- Alteração de Status
+- Tratamento de erros
+
+PRÓXIMA IMPLEMENTAÇÕES
+- Carrinho de compras
+- Controle de estoque
+
+Status do pedido
+int
+ 1  Pendente
+ 2  Pago
+ 3  Cancelado
+ 4  Entregue
